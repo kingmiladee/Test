@@ -306,7 +306,7 @@ This command will send text to [group_id]
 ]],
     help_text = [[
 Commands list :
-
+slm
 !kick [username|id]
 You can also do it by reply
 
@@ -324,7 +324,7 @@ Moderators list
 
 !promote [username]
 Promote someone
-
+test
 !demote [username]
 Demote someone
 
